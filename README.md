@@ -18,7 +18,7 @@ The Indian Premier League (IPL), founded in 2008, is a premier Twenty20 (T20) cr
   - [Bowler Analysis](#bowler-analysis)
 - [Tools & Libraries Used](#tools--libraries-used)
 - [Acknowledgements](#acknowledgements)
-- [Inspiration](#inspiration)
+
 
 ## About the Project
 
@@ -73,29 +73,7 @@ The dataset used in this project consists of two CSV files: `matches_2008-2024.c
 
 - **IPL Complete Dataset (2008-2024)**: The dataset used in this analysis is sourced from Kaggle and is up-to-date through the 2024 season. Available [here](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020).
 
-## Inspiration
 
-This project was inspired by the desire to analyze and visualize cricket data, apply statistical methods to real-world scenarios, and gain insights into one of the most popular sports leagues globally. Through this analysis, we aim to contribute to the understanding and appreciation of the game of cricket.
-
----
-
-Feel free to contribute to this project by forking the repository and submitting pull requests. Let's explore and enjoy the world of cricket through data!
-
----
-
-## Project Overview
-
-### Home Page:
-
-![Home Page Sample Image](/Images/IPL_ANALYSIS_OVERVIEW.png)
-
-### Navigation Bar:
-
-![NavBar Sample Image](/Images/NavBar.png)
-
-<!-- <img title="repo views" src="https://repoviews.netlify.app/.netlify/functions/repoViews?file=app.py"> -->
-
-![Divider Line](/Images/divider.png)
 
 ## Getting Started
 
