@@ -79,7 +79,7 @@ The dataset used in this project consists of two CSV files: `matches_2008-2024.c
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/nari143/IPL-Analysis-prediction.git
 cd ipl-analytics-main
 ```
 
